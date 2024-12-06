@@ -1,6 +1,6 @@
 ---
 layout: home
-title: About
+title: accenture.github.io | Accenture contributes to the open source community
 permalink: /
 
 head_h: We believe in the power of open source
